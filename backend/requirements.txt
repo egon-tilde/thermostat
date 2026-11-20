@@ -1,8 +1,8 @@
 # Smart Thermostat cloud backend (test fixture: old versions on purpose)
-Django==3.2.0
-requests==2.19.0
-urllib3==1.24.1
-PyYAML==5.3
-Pillow==8.0.0
-Jinja2==2.10
-cryptography==3.2
+Django==4.2.26
+requests==2.33.0
+urllib3==2.8.0
+PyYAML==5.4
+Pillow==13.0.0
+Jinja2==3.1.6
+cryptography==39.0.1
